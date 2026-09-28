@@ -1,9 +1,5 @@
 # Syntaxe et Sémantique des Langages - INFOB314 et IHDCB332
-# Template du Projet Compilateur (En-Mode-J)
 
-## Présentation
-
-Template pour le projet compilateur du cours (En-Mode-J).
 
 ## Mise en Place du Projet
 
